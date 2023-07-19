@@ -23,22 +23,22 @@ This dataset contains 3 spreadsheets.
 
 
        1. Chaging columns names
-       2. 2.reordering columns
+       2. Reordering columns
        3. Changed data types of columns
-       4. column flitration
+       4. Column flitration
        5. Adding coustom columns to seprate year from order date
-       6. Replced Vales( Catagorical Values)
+       6. Replaced Values( Catagorical Values)
        7. Dropped Unwanted columns
        8. Dealth with missing/null values
        
 * Step4 - Dashboard/Report Creation:
 
        - Slicer is used to get data for respective year.
-       - Crads are used to get sum of prfit,quantity,return orders & avgrage delivery days.
-       - Donut Charts are used for sales reprentation by sales and market.
+       - Cards are used to get sum of profit,quantity,return orders & avgrage delivery days.
+       - Donut Charts are used for sales representation by sales and market.
        - Map is used to locate bussines regions.
-       - Clusterd bar chartes are used to represent top and bottom 6 products.
-       - Stacked Column chart is used to get info about top 10 coustmers.
+       - Clustered bar charts are used to represent top and bottom 6 products.
+       - Stacked Column chart is used to get information about top 10 coustmers.
 
 ### Dataset Overview
 
